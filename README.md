@@ -63,12 +63,20 @@
   <a href="https://github.com/Mrsky02/Mrsky-md"><b>Mr-Sky-md</b></a> Support Deploy On...
 </p>
 
+
+
 <p align="center">
-  <a href="https://github.com/Mrsky02/Mrsky-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
-</p>
-<p align="center">
+  <a href="https://github.com/Mrsky02/Mrsky-mdd"><img src="https://img.shields.io/badge/Deploy-Github-black?style=for-the-badge&logo=github&Deploy&logoColor=black" Width="450"></a>
+
+
+
+
+
+  
   <a href="https://dashboard.heroku.com/new?templateMrsky02%2Mrsky-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+
+
+  
   <a href="https://Mrsky-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mrsky02/Mrsky-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328&env[MONGODB_URI]&&env[OWNER_NAME]=mrsky ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-tech&env[KOYEB_NAME]=mrsky-md&env[SUDO]=null&env[THUMB_IMAGE]=https://github.com/Mrsky02/Mrsk-md"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
