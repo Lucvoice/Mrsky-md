@@ -73,16 +73,14 @@
 
 
   
-  <a href="https://dashboard.heroku.com/new?templateMrsky02%2Mrsky-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?templateMrsky02%2Mrsky-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098" Width="450"></a>
 
 
   
-  <a href="https://Mrsky-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Mrsky02/Mrsky-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255715654328&env[MONGODB_URI]&&env[OWNER_NAME]=mrsky ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=MRSKY&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Mrsky-tech&env[KOYEB_NAME]=mrsky-md&env[SUDO]=null&env[THUMB_IMAGE]=https://github.com/Mrsky02/Mrsk-md"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+
 </p>
-  <a href="https://youtube.com/shorts/b6zv1n6DTEM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
-<p align="center">Need help? please create an <a href="https://github.com/Mrsky02/Mrsk-md/issues">issue</a></p>
+
+
 
  
 
@@ -109,7 +107,7 @@
 
 
 
-<h3>Mr-Sky-MD Stats</h3>
+<h3>Mrsky-MD Stats</h3>
 
 ![Venocyber-Md Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mrsky02&repo=Mrsky-md&show_owner=true&theme=dark)
 
@@ -120,16 +118,19 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`]
+  
+  
+  or server 2 qr code
     <br>
-<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://venocybe-md-session.onrnder.com). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+<a href="#">  <img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+🌟.  [`PARING CODE`](https://venocybe-md-session.onrnder.com). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
 <a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/shorts/b6zv1n6DTEM). `Optional`***
-5. and `Star ⭐ Repository` for Courage.***
+5.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/shorts/b6zv1n6DTEM). `Optional`***
+6. and `Star ⭐ Repository` for Courage.***
 8.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 9.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 10.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmrsky-cyber%2FMrsky-md)***
